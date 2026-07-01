@@ -89,8 +89,6 @@ Consultante IT à IRIS Junior Entreprise
 ---
  
 <div align="center">
-Fait avec ❤️ dans le cadre du workshop **HTML Masterclass — IRIS Junior Création**
  
 **#ToTheNEXTLevel 🚀**
- 
 </div>
