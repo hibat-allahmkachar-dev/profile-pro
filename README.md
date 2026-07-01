@@ -1,16 +1,21 @@
 <div align="center">
+ 
 # Profil Utilisateur IRIS
  
 **Page de profil sémantique, accessible et conforme W3C**
  
 <br />
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![W3C](https://img.shields.io/badge/W3C-Valide-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
  
 <br />
-[🌐 Voir la page](../../blob/main/profil.html) · [🐛 Signaler un bug](../../issues) · [💡 Proposer une amélioration](../../issues)
  
 </div>
 ---
